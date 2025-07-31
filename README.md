@@ -46,7 +46,8 @@ The steps were automated and recorded through Power Query’s Applied Steps.
 Cleaned the survey data, removed duplicates, corrected outliers, and rounded scores.
 
 📷 *Image:*
-![Patient Satisfaction Cleaning](<img width="1915" height="1033" alt="4b131cce-ccd1-49e8-adbf-d970eac586df" src="https://github.com/user-attachments/assets/72d64c3b-9ba3-42d6-812a-0b53fad10a8c" />
+![Patient Satisfaction Cleaning](<img width="1915" height="1033" alt="image" src="https://github.com/user-attachments/assets/f21b3799-426d-470e-aebf-bcb4882be16a" />
+
 )
 
 ---
@@ -56,7 +57,9 @@ Cleaned the survey data, removed duplicates, corrected outliers, and rounded sco
 Calculated average scores for male/female/unspecified patients across hospitals.
 
 📷 *Image:*
-![Average by Gender](<img width="1917" height="1030" alt="ee9087be-c8a7-49cc-87ba-65a8538cd9cb" src="https://github.com/user-attachments/assets/38992925-0cd2-4d6f-b440-6d7dadf8d03d" />
+![Average by Gender](
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/e08ce70f-22c9-4074-a781-3ae6258a4b46" />
+
 )
 
 ---
@@ -66,5 +69,6 @@ Calculated average scores for male/female/unspecified patients across hospitals.
 Monthly satisfaction scores by hospital using Pivot and trend reshaping.
 
 📷 *Image:*
-![Trending Satisfaction](<img width="1911" height="1028" alt="2586ad3c-e3f4-4356-ac35-c2401306d4f5" src="https://github.com/user-attachments/assets/0540a6df-8c39-4d09-b4e1-0bba31278cbf" />
+![Trending Satisfaction](<img width="1911" height="1028" alt="image" src="https://github.com/user-attachments/assets/27ad21e0-a044-48c7-931e-50fecb6ecb9c" />
+
 )
